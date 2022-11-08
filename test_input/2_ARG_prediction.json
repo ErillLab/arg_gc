@@ -1,7 +1,7 @@
 {
 
-    "email": "miquelsanchezosuna@gmail.com",
-    "api_key": "006c1ab893fefe53d79c7b438fb5712b2709",
+    "email": "",
+    "api_key": "",
     "card_db_csv":"",
     "plasmid_db_name": "PLSDB_db",
     "blastp_eval": 1e-20,
