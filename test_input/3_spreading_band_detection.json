@@ -1,0 +1,10 @@
+{
+
+    "arg_db": "utilities/PLSDB_ARG_prediction.tsv",
+    "arg_db_r": "utilities/PLSDB_ARG_prediction_r.tsv",
+    "spreading_GC_value": 15,
+    "spreading_GC_dev": 5,
+    "GC_bin": 1,
+    "output_tsv": "1_spreading_bands_output.tsv"
+
+}

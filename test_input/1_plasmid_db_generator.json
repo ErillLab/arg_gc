@@ -1,0 +1,9 @@
+{
+
+    "email": "miquelsanchezosuna@gmail.com",
+    "api_key": "006c1ab893fefe53d79c7b438fb5712b2709",
+    "plsdb_csv":"utilities/plsdb.tsv",
+    "db_fasta": "PLSDB_db.faa",
+    "db_blastp_name": "PLSDB_db"
+
+}

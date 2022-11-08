@@ -1,0 +1,7 @@
+{
+
+    "arg_db": "utilities/PLSDB_ARG_prediction.tsv",
+    "output_rm_tsv": "resistance_mechanism_mobilization_summary.tsv",
+    "output_ab_tsv": "antibiotic_mobilization_summary.tsv"
+    
+}

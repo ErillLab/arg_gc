@@ -1,0 +1,15 @@
+{
+
+    "email": "miquelsanchezosuna@gmail.com",
+    "api_key": "006c1ab893fefe53d79c7b438fb5712b2709",
+    "card_db_csv":"",
+    "plasmid_db_name": "PLSDB_db",
+    "blastp_eval": 1e-20,
+    "blastp_query_cov": 75,
+    "COG_db": "HMMERdbs/COG_database.hmm",
+    "Pfam_db": "HMMERdbs/Pfam_database.hmm",
+    "hmmer_eval": 1e-05,
+    "ncbi_assembly_file": "",
+    "output_json": "PLSDB_ARG_prediction.json"
+
+}
